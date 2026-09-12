@@ -34,7 +34,9 @@ uasm64 -win64 proyecto_modulo1.asm
 GoLink.exe proyecto_modulo1.obj kernel32.dll /fo proyecto_modulo1.exe /console /entry main
 ```
 ## Capturas del funcionamiento del proyecto
-<img width="1873" height="1060" alt="image" src="https://github.com/user-attachments/assets/7dd1e4ea-9754-4ead-a3f0-71b956316c24" />
-<img width="1901" height="852" alt="image" src="https://github.com/user-attachments/assets/523e434a-c87e-4373-9418-4ae15de40c35" />
+<img width="1709" height="820" alt="image" src="https://github.com/user-attachments/assets/5274b872-3937-4345-b264-75f363481a64" />
+<img width="1915" height="1129" alt="image" src="https://github.com/user-attachments/assets/865e4acc-e356-4a5f-bd0a-7aa75b4e7691" />
+
+
 
 
